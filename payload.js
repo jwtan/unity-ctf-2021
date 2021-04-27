@@ -7,4 +7,4 @@ xhr.send(JSON.stringify(
 {
   "message":message
 }
-))
+));
